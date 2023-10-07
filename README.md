@@ -1,4 +1,3 @@
-![image1](https://github.com/yogesh6260/todo-app-frontend/assets/75936948/14aabd2a-f5f4-473f-abe4-a7bdb280ce6f)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -20,6 +19,12 @@ Login with above credentials and enjoy todo app with CRUD operations!
 Express Backend is hosted on render, sometimes it may down.
 
 ### APP SCREENSHOTS
+
+![canva1](https://github.com/yogesh6260/todo-app-frontend/assets/75936948/80724255-2b27-45e9-b32e-f5faaa364861)
+
+
+![canva2](https://github.com/yogesh6260/todo-app-frontend/assets/75936948/e353998b-2aea-4c75-ad2d-e1c8707bfc82)
+
 
 ## Development Environment Setup & Run
 
