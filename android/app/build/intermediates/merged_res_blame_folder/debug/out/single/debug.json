@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_uncheckbox.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_uncheckbox.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_checkbox.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_checkbox.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_taskylogo.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_taskylogo.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_add.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_add.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_refresh.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_refresh.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_delete.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_delete.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_edit.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_edit.png"
+    },
+    {
+        "merged": "com.tasky.app-merged_res-31:/drawable-mdpi_src_assets_images_todolist.png.flat",
+        "source": "com.tasky.app-main-33:/drawable-mdpi/src_assets_images_todolist.png"
+    },
+    {
+        "merged": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/home/oem/.gradle/daemon/8.0.1/com.tasky.app-main-33:/drawable/rn_edit_text_material.xml"
+    }
+]
