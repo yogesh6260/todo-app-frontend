@@ -10,6 +10,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 If the apk file not found in the above path. Please, download from external sources.
 
+
+
 ## APP USER CREDENTIALS
 
 - email - user@gmail.com
@@ -20,10 +22,12 @@ Express Backend is hosted on render, sometimes it may down.
 
 ### APP SCREENSHOTS
 
-![canva1](https://github.com/yogesh6260/todo-app-frontend/assets/75936948/80724255-2b27-45e9-b32e-f5faaa364861)
+![canva1](https://github.com/yogesh6260/todo-app-frontend/assets/75936948/f32e590f-8e89-4123-a047-a36d9e5223f7)
 
 
-![canva2](https://github.com/yogesh6260/todo-app-frontend/assets/75936948/e353998b-2aea-4c75-ad2d-e1c8707bfc82)
+
+![canva2](https://github.com/yogesh6260/todo-app-frontend/assets/75936948/a5dac0be-0ec1-42e6-affd-a30e22221d22)
+
 
 
 ## Development Environment Setup & Run
