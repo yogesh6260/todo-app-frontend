@@ -10,6 +10,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 If the apk file not found in the above path. Please, download from external sources.
 
+link - https://github.com/yogesh6260/todo-app-frontend/releases/tag/v0.1.0
 
 
 ## APP USER CREDENTIALS
